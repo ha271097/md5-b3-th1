@@ -7,4 +7,8 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'md5-b3-th1';
+  fontSize = 14;
+  // changeFontSizeValue(a:number) {
+  //   this.fontSize = a;
+  // }
 }
